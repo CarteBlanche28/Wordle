@@ -1,0 +1,10 @@
+D:\комп\4) Прог-ование\Visual Studio 2015 Projects\Projects\Wordle v9 no hardcoding\Wordle\bin\Debug\Wordle.exe.config
+D:\комп\4) Прог-ование\Visual Studio 2015 Projects\Projects\Wordle v9 no hardcoding\Wordle\bin\Debug\Wordle.exe
+D:\комп\4) Прог-ование\Visual Studio 2015 Projects\Projects\Wordle v9 no hardcoding\Wordle\bin\Debug\Wordle.pdb
+D:\комп\4) Прог-ование\Visual Studio 2015 Projects\Projects\Wordle v9 no hardcoding\Wordle\obj\Debug\Wordle.csproj.AssemblyReference.cache
+D:\комп\4) Прог-ование\Visual Studio 2015 Projects\Projects\Wordle v9 no hardcoding\Wordle\obj\Debug\_1122.Form1.resources
+D:\комп\4) Прог-ование\Visual Studio 2015 Projects\Projects\Wordle v9 no hardcoding\Wordle\obj\Debug\_1122.Properties.Resources.resources
+D:\комп\4) Прог-ование\Visual Studio 2015 Projects\Projects\Wordle v9 no hardcoding\Wordle\obj\Debug\Wordle.csproj.GenerateResource.cache
+D:\комп\4) Прог-ование\Visual Studio 2015 Projects\Projects\Wordle v9 no hardcoding\Wordle\obj\Debug\Wordle.csproj.CoreCompileInputs.cache
+D:\комп\4) Прог-ование\Visual Studio 2015 Projects\Projects\Wordle v9 no hardcoding\Wordle\obj\Debug\Wordle.exe
+D:\комп\4) Прог-ование\Visual Studio 2015 Projects\Projects\Wordle v9 no hardcoding\Wordle\obj\Debug\Wordle.pdb
